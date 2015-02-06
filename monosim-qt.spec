@@ -1,7 +1,7 @@
 Summary:   Qt user interface to manage sim card contacts
 Name:      monosim-qt
 Version:   2.0.0.0
-Release:   %mkrel 1
+Release:   2
 License:   GPLv2
 #ExcludeArch: ppc64
 Group:     Office
