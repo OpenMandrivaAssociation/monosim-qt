@@ -7,7 +7,7 @@ License:   GPLv2
 Group:     Office
 Source:    http://monosim.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
-URL:       http://monosim.googlecode.com/
+URL:       https://monosim.googlecode.com/
 BuildArch: noarch
 # don't generate debug file because is empty
 # % define debug_package %{nil}
